@@ -75,10 +75,6 @@
   --category-hover-color: rgb(60, 202, 138);
 
   /*
-    Change the unread server animation.
-    Replace it with "none" in order to remove any animations and use the main color instead
-
-  /*
     Video / Screen share buttons
   */
   --video-screen-button-background-color: rgba(200, 200, 200, 0.2);
